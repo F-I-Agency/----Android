@@ -3,8 +3,8 @@
 ♠ Γεννήτριες Κωδικών ♠
 #
 Ανοικτού Κώδικα
-[Password Generator](https://play.google.com/store/apps/details?id=com.vecturagames.android.app.passwordgenerator&pli=1)  από Vectura Games OÜ
-[Password Generator](https://play.google.com/store/apps/details?id=in.ibytes.passwordgenerator) από ibytes
+- [Password Generator](https://play.google.com/store/apps/details?id=com.vecturagames.android.app.passwordgenerator&pli=1)  από Vectura Games OÜ
+- [Password Generator](https://play.google.com/store/apps/details?id=in.ibytes.passwordgenerator) από ibytes
 ##
 Δίχως πληρωμή
 [PasGenPasGen - Strong Password Generator](https://play.google.com/store/apps/details?id=in.abhisheknair.passgen) από A.N.N.J. Apps
