@@ -1,6 +1,6 @@
-▷ Συλλογή εργαλείων ασφαλείας για συσκευές Android ◁
+♦ Οι Προστάτες - Τα Μπλέ Καπέλα - Οι Αμυνόμενοι ♦
 #
-♦ Γεννήτριες Κωδικών ♦
+○ Γεννήτριες Κωδικών ○
 #
 Ανοικτού κώδικα
 001. [Password Generator](https://play.google.com/store/apps/details?id=com.vecturagames.android.app.passwordgenerator) - από Vectura Games OÜ
@@ -42,7 +42,7 @@
 003. [Random Password Generator free](https://play.google.com/store/apps/details?id=com.shpavda.random_password_generator) - από shpavda LLC
 004. [Password Generator](https://play.google.com/store/apps/details?id=secure.password.generator.unique.password) - από Epic Apps Studio
 #
-♣ Διαχειριστές Κωδικών (Πορτοφόλι) ♣
+● Διαχειριστές Κωδικών (Πορτοφόλι) ●
 #
 Ανοικτού κώδικα
 001. [Keepass2Android Offline](https://play.google.com/store/apps/details?id=keepass2android.keepass2android_nonet) - από Philipp Crocoll (Croco Apps)
@@ -93,7 +93,7 @@
 014. [Sticky Password Manager](https://play.google.com/store/apps/details?id=com.stickypassword.android) - από Lamantine Software a.s.
 015. [Password Safe and Manager](https://play.google.com/store/apps/details?id=com.reneph.passwordsafe) - από Robert Ehrhardt
 #
-❤ Γονικός έλεγχος ❤
+○ Γονικός έλεγχος ○
 #
 Δωρεάν
 001. [Σύνδεσμος οικογένειας Google](https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink) - από Google LLC
