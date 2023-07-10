@@ -1,8 +1,8 @@
-♦ Οι Προστάτες - Τα Μπλέ Καπέλα - Οι Αμυνόμενοι ♦
-#
+# ♦ Οι Προστάτες - Τα Μπλέ Καπέλα - Οι Αμυνόμενοι ♦
+
 ● Γεννήτριες Κωδικών ●
 #
-Ανοικτού κώδικα
+#### Ανοικτού κώδικα
 - [Password Generator](https://play.google.com/store/apps/details?id=com.vecturagames.android.app.passwordgenerator) - από Vectura Games OÜ
 - [Password Generator](https://play.google.com/store/apps/details?id=in.ibytes.passwordgenerator) - από ibytes
 - [Password Generator](https://play.google.com/store/apps/details?id=com.cem256.passwordgenerator) - από Cem256
@@ -13,7 +13,7 @@
 - [Pazzword - Password Evaluator](https://play.google.com/store/apps/details?id=com.cyb3rko.pazzword) - από Cyb3rKo
 - [Nextcloud Passwords](https://play.google.com/store/apps/details?id=de.jbservices.nc_passwords_app) - από Jonas Blatt
 #
-Δίχως πληρωμή με διαφημίσεις
+#### Δίχως πληρωμή με διαφημίσεις
 - [PasGen - Strong Password Maker](https://play.google.com/store/apps/details?id=com.glaukeslabs.pasgen) - από Glaukes Labs
 - [Password Generator](https://play.google.com/store/apps/details?id=com.gmail.viertelstein.passwordgenerator) - από Viertelstein
 - [PassGen - Password Generator](https://play.google.com/store/apps/details?id=ru.passgen.net) - από Smied
@@ -36,7 +36,7 @@
 - [Password Generator](https://play.google.com/store/apps/details?id=com.ardaulger.passwordgenerator) - από Arda ÜLGER
 - [Secure Password Generator](https://play.google.com/store/apps/details?id=com.dtd.passwordgenerator) - από Dynamite Tech Development
 #
-Εν μέρει δωρεάν
+#### Εν μέρει δωρεάν
 - [Password Generator - UltraPass](https://play.google.com/store/apps/details?id=com.softwareschiek.ultrapass) - από Tobias Schiek
 - [#1 Password Generator](https://play.google.com/store/apps/details?id=com.companova.passwordgenerator) - από CompaNova LLC
 - [Random Password Generator free](https://play.google.com/store/apps/details?id=com.shpavda.random_password_generator) - από shpavda LLC
@@ -44,7 +44,7 @@
 #
 ● Διαχειριστές Κωδικών (Πορτοφόλι) ●
 #
-Ανοικτού κώδικα
+#### Ανοικτού κώδικα
 - [Keepass2Android Offline](https://play.google.com/store/apps/details?id=keepass2android.keepass2android_nonet) - από Philipp Crocoll (Croco Apps)
 - [Keepass2Android Password Safe](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) - από Philipp Crocoll (Croco Apps)
 - [Password Master](https://play.google.com/store/apps/details?id=com.vecturagames.android.app.passwordmaster) - από Vectura Games OÜ
@@ -65,18 +65,18 @@
 - [KeepassA](https://play.google.com/store/apps/details?id=com.lyy.keepassa) - από dorn
 - [KeePassDroid](https://play.google.com/store/apps/details?id=com.android.keepass) - από Brian Pellin
 #
-Ανοικτού κώδικα με στοιχεία επί πληρωμή ή τελείως με πληρωμή
+#### Ανοικτού κώδικα με στοιχεία επί πληρωμή ή τελείως με πληρωμή
 - [Proton Pass: Password Manager](https://play.google.com/store/apps/details?id=proton.android.pass) - από Proton AG
 - [KeePassDX](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free) - από Kunzisoft
 - [X:/Passwd - Local, Open-Source](https://play.google.com/store/apps/details?id=com.xtrendence.x_passwd) - από Xtrendence
 - [Liso - Διαχειριστής Κωδικών](https://play.google.com/store/apps/details?id=com.liso.app) - από Stackwares
 #
-Δίχως πληρωμή
+#### Δίχως πληρωμή
 - [DrivePassword Password Manager](https://play.google.com/store/apps/details?id=com.drivepassword.android) - από Promotino Ltd
 - [Complete ID: Password Manager](https://play.google.com/store/apps/details?id=com.completeid.passwordmanager) - από CSID Corporation
 - [JumpCloud Password Manager](https://play.google.com/store/apps/details?id=com.jumpcloud.pwm.android) - από JumpCloud
 #
-Εν μέρει δωρεάν
+#### Εν μέρει δωρεάν
 - [KPass: password manager](https://play.google.com/store/apps/details?id=com.korovan.kpass) - από Vladimir Skorokhodov
 - [NordPass® Password Manager](https://play.google.com/store/apps/details?id=com.nordpass.android.app.password.manager) - από Nord Security
 - [My Passwords Manager](https://play.google.com/store/apps/details?id=com.er.mo.apps.mypasswords) - από Erkan Molla
@@ -95,11 +95,11 @@
 #
 ● Γονικός έλεγχος ●
 #
-Δωρεάν
+#### Δωρεάν
 - [Σύνδεσμος οικογένειας Google](https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink) - από Google LLC
 - [Bitdefender Parental Control](https://play.google.com/store/apps/details?id=com.bitdefender.parentaladvisor) - από Bitdefender
 #
-Εν μέρει δωρεάν
+#### Εν μέρει δωρεάν
 - [Γονικός έλεγχος Kroha](https://play.google.com/store/apps/details?id=ua.com.tim_berners.parental_control) - από Parental Control Kroha
 - [OurPact – Parental Control App](https://play.google.com/store/apps/details?id=com.ourpact.androidparent) - από Eturi Corp.
 - [Life360: Live Location Sharing](https://play.google.com/store/apps/details?id=com.life360.android.safetymapd) - από Life360
