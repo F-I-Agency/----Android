@@ -3,14 +3,14 @@
 ♠ Γεννήτριες Κωδικών
 001. [Password Generator](https://play.google.com/store/apps/details?id=com.vecturagames.android.app.passwordgenerator&pli=1) - Ανοικτού Κώδικα
 002. [Password Generator](https://play.google.com/store/apps/details?id=in.ibytes.passwordgenerator) - Ανοικτού Κώδικα
-003. [PasGenPasGen - Strong Password Generator](https://play.google.com/store/apps/details?id=com.glaukeslabs.pasgen&hl=el&gl=US)) - Δίχως Πληρωμή 
-004. [Password Generator](https://www.play.google.com/store/apps/details?id=com.gmail.viertelstein.passwordgenerator/) - Δίχως Πληρωμή
+003. [PasGenPasGen - Strong Password Generator](https://play.google.com/store/apps/details?id=in.abhisheknair.passgen&hl=en_US) - Δίχως Πληρωμή 
+004. [Password Generator]() - Δίχως Πληρωμή
 005. [PassGen](https://play.google.com/store/apps/details?id=ru.passgen.net) - Δίχως Πληρωμή
 006. [PassGen - Random Password Generator free](https://play.google.com/store/apps/details?id=in.abhisheknair.passgen) - Δίχως Πληρωμή
 007. [PassGen](https://play.google.com/store/apps/details?id=com.commonbyte.passgen) - Δίχως Πληρωμή 
 008. [PassGen Pro - password generator](https://play.google.com/store/apps/details?id=net.snkey.passgen) - Δίχως Πληρωμή 
 009. [PassGen](https://play.google.com/store/apps/details?id=com.bsavasy.pasgen) - Δίχως Πληρωμή 
-010. [PassGen] free 
+010. [PassGen](https://play.google.com/store/apps/details?id=dk.henkpetersen.passgen) - Δίχως Πληρωμή
 011. [Advanced Password Generator](https://play.google.com/store/apps/details?id=de.aregel.advancedpasswordgenerator) - Δίχως Πληρωμή 
 012. [Password Generator](https://play.google.com/store/apps/details?id=com.gmail.viertelstein.passwordgenerator) - Δίχως Πληρωμή 
 013. [SecuroGen - Password generator](https://play.google.com/store/apps/details?id=com.bravenbitsoftware.securogen) - Δίχως Πληρωμή 
