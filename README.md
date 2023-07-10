@@ -1,6 +1,6 @@
 Συλλογή εργαλείων ασφαλείας για συσκευές Android
 #
-♠ Γεννήτριες Κωδικών
+♠ Γεννήτριες Κωδικών ♠
 001. [Password Generator](https://play.google.com/store/apps/details?id=com.vecturagames.android.app.passwordgenerator&pli=1) - Ανοικτού Κώδικα από Vectura Games OÜ
 002. [Password Generator](https://play.google.com/store/apps/details?id=in.ibytes.passwordgenerator) - Ανοικτού Κώδικα από ibytes
 003. [PasGenPasGen - Strong Password Generator](https://play.google.com/store/apps/details?id=in.abhisheknair.passgen&hl=en_US) - Δίχως Πληρωμή από A.N.N.J. Apps
