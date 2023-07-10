@@ -63,16 +63,19 @@
 016. [IRISPass](https://play.google.com/store/apps/details?id=dev.avinashv.irispass) - από avinashv.dev
 017. [Padloc](https://play.google.com/store/apps/details?id=app.padloc) - από MaKleSoft
 018. [KeepassA](https://play.google.com/store/apps/details?id=com.lyy.keepassa) - από dorn
-019. [KeePassDroid](https://play.google.com/store/apps/details?id=com.android.keepass) - από Brian Pellin 
+019. [KeePassDroid](https://play.google.com/store/apps/details?id=com.android.keepass) - από Brian Pellin
+#
 Ανοικτού κώδικα με στοιχεία επί πληρωμή ή τελείως με πληρωμή
 001. [Proton Pass: Password Manager](https://play.google.com/store/apps/details?id=proton.android.pass) - από Proton AG
 002. [KeePassDX](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free) - από Kunzisoft
 003. [X:/Passwd - Local, Open-Source](https://play.google.com/store/apps/details?id=com.xtrendence.x_passwd) - από Xtrendence
 004. [Liso - Διαχειριστής Κωδικών](https://play.google.com/store/apps/details?id=com.liso.app) - από Stackwares
+#
 Δίχως πληρωμή
 001. [DrivePassword Password Manager](https://play.google.com/store/apps/details?id=com.drivepassword.android) - από Promotino Ltd
 002. [Complete ID: Password Manager](https://play.google.com/store/apps/details?id=com.completeid.passwordmanager) - από CSID Corporation
 003. [JumpCloud Password Manager](https://play.google.com/store/apps/details?id=com.jumpcloud.pwm.android) - από JumpCloud
+#
 Εν μέρει δωρεάν
 001. [KPass: password manager](https://play.google.com/store/apps/details?id=com.korovan.kpass) - από Vladimir Skorokhodov
 002. [NordPass® Password Manager](https://play.google.com/store/apps/details?id=com.nordpass.android.app.password.manager) - από Nord Security
@@ -91,9 +94,11 @@
 015. [Password Safe and Manager](https://play.google.com/store/apps/details?id=com.reneph.passwordsafe) - από Robert Ehrhardt
 #
 ❤ Γονικός έλεγχος ❤
+#
 Δωρεάν
 001. [Σύνδεσμος οικογένειας Google](https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink) - από Google LLC
 002. [Bitdefender Parental Control](https://play.google.com/store/apps/details?id=com.bitdefender.parentaladvisor) - από Bitdefender
+#
 Εν μέρει δωρεάν
 001. [Γονικός έλεγχος Kroha](https://play.google.com/store/apps/details?id=ua.com.tim_berners.parental_control) - από Parental Control Kroha
 002. [OurPact – Parental Control App](https://play.google.com/store/apps/details?id=com.ourpact.androidparent) - από Eturi Corp.
