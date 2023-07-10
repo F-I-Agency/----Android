@@ -12,7 +12,7 @@
 - [Strong Password Generator](https://play.google.com/store/apps/details?id=strong.password.random.password.generator) - από Global Technoworld Developers
 - [Pazzword - Password Evaluator](https://play.google.com/store/apps/details?id=com.cyb3rko.pazzword) - από Cyb3rKo
 - [Nextcloud Passwords](https://play.google.com/store/apps/details?id=de.jbservices.nc_passwords_app) - από Jonas Blatt
-#
+
 #### Δίχως πληρωμή με διαφημίσεις
 - [PasGen - Strong Password Maker](https://play.google.com/store/apps/details?id=com.glaukeslabs.pasgen) - από Glaukes Labs
 - [Password Generator](https://play.google.com/store/apps/details?id=com.gmail.viertelstein.passwordgenerator) - από Viertelstein
@@ -35,7 +35,7 @@
 - [Password Generator](https://play.google.com/store/apps/details?id=com.exabytez.passwordgenerator) - από Exabytez
 - [Password Generator](https://play.google.com/store/apps/details?id=com.ardaulger.passwordgenerator) - από Arda ÜLGER
 - [Secure Password Generator](https://play.google.com/store/apps/details?id=com.dtd.passwordgenerator) - από Dynamite Tech Development
-#
+
 #### Εν μέρει δωρεάν
 - [Password Generator - UltraPass](https://play.google.com/store/apps/details?id=com.softwareschiek.ultrapass) - από Tobias Schiek
 - [#1 Password Generator](https://play.google.com/store/apps/details?id=com.companova.passwordgenerator) - από CompaNova LLC
@@ -64,18 +64,18 @@
 - [Padloc](https://play.google.com/store/apps/details?id=app.padloc) - από MaKleSoft
 - [KeepassA](https://play.google.com/store/apps/details?id=com.lyy.keepassa) - από dorn
 - [KeePassDroid](https://play.google.com/store/apps/details?id=com.android.keepass) - από Brian Pellin
-#
+
 #### Ανοικτού κώδικα με στοιχεία επί πληρωμή ή τελείως με πληρωμή
 - [Proton Pass: Password Manager](https://play.google.com/store/apps/details?id=proton.android.pass) - από Proton AG
 - [KeePassDX](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free) - από Kunzisoft
 - [X:/Passwd - Local, Open-Source](https://play.google.com/store/apps/details?id=com.xtrendence.x_passwd) - από Xtrendence
 - [Liso - Διαχειριστής Κωδικών](https://play.google.com/store/apps/details?id=com.liso.app) - από Stackwares
-#
+
 #### Δίχως πληρωμή
 - [DrivePassword Password Manager](https://play.google.com/store/apps/details?id=com.drivepassword.android) - από Promotino Ltd
 - [Complete ID: Password Manager](https://play.google.com/store/apps/details?id=com.completeid.passwordmanager) - από CSID Corporation
 - [JumpCloud Password Manager](https://play.google.com/store/apps/details?id=com.jumpcloud.pwm.android) - από JumpCloud
-#
+
 #### Εν μέρει δωρεάν
 - [KPass: password manager](https://play.google.com/store/apps/details?id=com.korovan.kpass) - από Vladimir Skorokhodov
 - [NordPass® Password Manager](https://play.google.com/store/apps/details?id=com.nordpass.android.app.password.manager) - από Nord Security
@@ -98,7 +98,7 @@
 #### Δωρεάν
 - [Σύνδεσμος οικογένειας Google](https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink) - από Google LLC
 - [Bitdefender Parental Control](https://play.google.com/store/apps/details?id=com.bitdefender.parentaladvisor) - από Bitdefender
-#
+
 #### Εν μέρει δωρεάν
 - [Γονικός έλεγχος Kroha](https://play.google.com/store/apps/details?id=ua.com.tim_berners.parental_control) - από Parental Control Kroha
 - [OurPact – Parental Control App](https://play.google.com/store/apps/details?id=com.ourpact.androidparent) - από Eturi Corp.
