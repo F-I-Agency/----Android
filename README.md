@@ -1,6 +1,6 @@
 ♦ Οι Προστάτες - Τα Μπλέ Καπέλα - Οι Αμυνόμενοι ♦
 #
-○ Γεννήτριες Κωδικών ○
+● Γεννήτριες Κωδικών ●
 #
 Ανοικτού κώδικα
 001. [Password Generator](https://play.google.com/store/apps/details?id=com.vecturagames.android.app.passwordgenerator) - από Vectura Games OÜ
@@ -93,7 +93,7 @@
 014. [Sticky Password Manager](https://play.google.com/store/apps/details?id=com.stickypassword.android) - από Lamantine Software a.s.
 015. [Password Safe and Manager](https://play.google.com/store/apps/details?id=com.reneph.passwordsafe) - από Robert Ehrhardt
 #
-○ Γονικός έλεγχος ○
+● Γονικός έλεγχος ●
 #
 Δωρεάν
 001. [Σύνδεσμος οικογένειας Google](https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink) - από Google LLC
