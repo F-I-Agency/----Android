@@ -8,7 +8,7 @@
 - [Pazzword - Password Evaluator](https://play.google.com/store/apps/details?id=com.cyb3rko.pazzword) - από Cyb3rKo
 - [Nextcloud Passwords](https://play.google.com/store/apps/details?id=de.jbservices.nc_passwords_app) - από Jonas Blatt
 
-#### Δωρεάν & χωρίς διαφημίσεις
+#### Δωρεάν χωρίς διαφημίσεις
 - [PassGen - Random Password Gene](https://play.google.com/store/apps/details?id=in.abhisheknair.passgen) - από abhisheknair
 - [PassGen](https://play.google.com/store/apps/details?id=com.commonbyte.passgen) - από Tilal Khan
 - [SecuroGen - Password generator](https://play.google.com/store/apps/details?id=com.bravenbitsoftware.securogen) - από Braven Bit Software
@@ -16,8 +16,22 @@
 - [Quick Password Generator](https://play.google.com/store/apps/details?id=com.quickpassgen.android) - από AppDroidTech
 - [Password generator](https://play.google.com/store/apps/details?id=com.balda.passwordgenerator) - από Marco Stornelli
 - [Password Generator](https://play.google.com/store/apps/details?id=air.com.intemodino.pwg.ml) - από Intemodino Group s.r.o.
+- [Random Password Generator](https://play.google.com/store/apps/details?id=com.randompwdgenerator&hl=en) - από Asli Bill - Quick Bill, POS, Invoicing & Print
+- [Clever password generator](https://play.google.com/store/apps/details?id=com.tomclaw.kvassword) - από TomClaw Software
+- [Password Generator](https://play.google.com/store/apps/details?id=com.generatorpasswords.createpasswords) - από Prep Your Exams
+- [Random password generator](https://play.google.com/store/apps/details?id=com.password.generator.o) - από Bonaventura Novellino
+- [Password Generator](https://play.google.com/store/apps/details?id=com.jainhardik120.passwordgenerator) - από Hardik-Jain
+- [Password Generator](https://play.google.com/store/apps/details?id=app.ollm.passwordgenerator) - από Oleguer Llopart
+- [Password Generator](https://play.google.com/store/apps/details?id=com.passwordgenerator01&hl=en_GB) - από sohffy
+- [Password Generator](https://play.google.com/store/apps/details?id=com.sogaban.passwordgenerator) - από SougataBanerjee
+- [Password Generator](https://play.google.com/store/apps/details?id=app.password_gen_jl.com) - από Julian Lau
+- [Fkulc's Password Generator](https://play.google.com/store/apps/details?id=org.xlfdll.nb.fpg&hl=en_US) - από Xlfdll Workstation
+- [Password Generator](https://play.google.com/store/apps/details?id=com.passwordgenerator.passwordgenerator) - από ITIO INNOVEX PVT LTD
+- [Random Password Generator](https://play.google.com/store/apps/details?id=com.ravenholm.random_password_generator) - από Ravenholm
+- [Password Generator - PasswordG](https://play.google.com/store/apps/details?id=app.passwordgenerator.password) - από Flussam Apps
+- [Simple Password Generator](https://play.google.com/store/apps/details?id=com.emrullahdemir.simple_password_generator) - από AwesoApps
 
-#### Δίχως πληρωμή με διαφημίσεις
+#### Δωρεάν με διαφημίσεις
 - [PasGen - Strong Password Maker](https://play.google.com/store/apps/details?id=com.glaukeslabs.pasgen) - από Glaukes Labs
 - [PassGen - Password Generator](https://play.google.com/store/apps/details?id=ru.passgen.net) - από Smied
 - [PasGenPasGen - Strong Password Generator](https://play.google.com/store/apps/details?id=in.abhisheknair.passgen) - από A.N.N.J. Apps
@@ -25,10 +39,31 @@
 - [Generate strong passwords](https://play.google.com/store/apps/details?id=com.isaac.passwordgenerator) - από Isaac de los Reyes Díaz
 - [Password Generator](https://play.google.com/store/apps/details?id=pl.fancycode.passwordgenerator) - από FancyCode
 - [Password Generator](https://play.google.com/store/apps/details?id=com.randompasswordsgenerator.strongpasswordgenerator) - από Financept
-- 
+- [Password Generator](https://play.google.com/store/apps/details?id=com.myprorock.passwordcraft) - από Mypro
+- [Password generator](https://play.google.com/store/apps/details?id=passgen.npapps.passwordgenerator) - από NpApps
 - [Password Generator](https://play.google.com/store/apps/details?id=com.exabytez.passwordgenerator) - από Exabytez
 - [Password Generator](https://play.google.com/store/apps/details?id=com.ardaulger.passwordgenerator) - από Arda ÜLGER
 - [Secure Password Generator](https://play.google.com/store/apps/details?id=com.dtd.passwordgenerator) - από Dynamite Tech Development
+- [Random Password Generator](https://play.google.com/store/apps/details?id=com.randompassword.test.randompasswordgenerator) - από Mocious
+- [Password Generator](https://play.google.com/store/apps/details?id=com.nisaefendioglu.passwordgenerator) - από Nisa Efendioğlu
+- [Strong Password Generator](https://play.google.com/store/apps/details?id=com.Kidshandprint.strongpasswordgenerator) - από AHMED SOUSANE
+- [Simple Password Generator](https://play.google.com/store/apps/details?id=com.wavetechstudio.passwordgenerator) - από Simple Planning Studio
+- [Simple Password Generator](https://play.google.com/store/apps/details?id=de.silentsystems.password_generator) - από Coolplay-Dev
+- [Password Generator](https://play.google.com/store/apps/details?id=com.fmglib.passwordgenerator) - από FmgLib
+- [Strong Password Generator](https://play.google.com/store/apps/details?id=com.gary.strongpasswordgenerator) - από gg studios
+- [Strong Password Generator](https://play.google.com/store/apps/details?id=com.infiniteworld.passwordmanager&hl=en_US) - από Infinite World - Easy and Fast Utility Apps
+- [Password Generator](https://play.google.com/store/apps/details?id=com.nacdevstudios.passwordgenerator&hl=en_AU) - από NAC - Devstudios
+- [Password Generator](https://play.google.com/store/apps/details?id=com.star.passwordgenerate) - από Yung philz devS
+- [Password Generator](https://play.google.com/store/apps/details?id=com.ado.android.passwordgenerator&hl=en_NZ) - από Lemon tools
+- [Password Generator](https://play.google.com/store/apps/details?id=com.hotmail.vitaly987.generator&hl=en) - από Vitalii K
+- [Password Generator](https://play.google.com/store/apps/details?id=com.valar.passwordgenerator) - από User_01
+- [Password Generator](https://play.google.com/store/apps/details?id=elmeniawy.eslam.passwordgenerator&hl=en_NZ) - από Eslam El-Meniawy
+- [Password Generator](https://play.google.com/store/apps/details?id=com.ali04.passwordgenerator) - από Ali04
+- [Password Generator](https://play.google.com/store/apps/details?id=it.firtec.gestorepassword) - από Firtec
+- [Password Generator](https://play.google.com/store/apps/details?id=com.aligkts.password.android) - από Alicious
+- [Password Generator](https://play.google.com/store/apps/details?id=com.barros.passwordgenerator&hl=en_IE) - από Barros9
+- [Password Generator](https://play.google.com/store/apps/details?id=com.psynetworks.passgen) - από PSY Networks
+- [Password Generator](https://play.google.com/store/apps/details?id=jp.tmrks.android.passwordgenerator&hl=en_NZ) - από tmrks
 
 #### Εν μέρει δωρεάν
 - [Password Generator - UltraPass](https://play.google.com/store/apps/details?id=com.softwareschiek.ultrapass) - από Tobias Schiek
@@ -37,6 +72,10 @@
 - [Password Generator](https://play.google.com/store/apps/details?id=secure.password.generator.unique.password) - από Epic Apps Studio
 - [My Password Generator Lock App](https://play.google.com/store/apps/details?id=com.strongpass.randomkey.safepassgenerator) - από PixelPioneer Solutions
 - [Strong Password Generator](https://play.google.com/store/apps/details?id=com.mobuyg.pass) - από Applist Soft
+- [Password Generator](https://play.google.com/store/apps/details?id=com.ablazaza.passwordgenerator&hl=en) - από Tona
+- [Random Password Generator](https://play.google.com/store/apps/details?id=com.randompasswordgenerator&hl=en_NZ) - από Mobilep Creative
+- [Password Generator](https://play.google.com/store/apps/details?id=com.word.khanhvn&hl=en_SG) - από 811039
+- [Password Generator](https://play.google.com/store/apps/details?id=com.blackstar.apps.passwordgenerator) - από blackstar
 #
 ● Διαχειριστές Κωδικών (Πορτοφόλι) ●
 #
