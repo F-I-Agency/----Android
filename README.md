@@ -74,6 +74,7 @@
 - [Random Password Generator](https://play.google.com/store/apps/details?id=com.randompasswordgenerator&hl=en_NZ) - από Mobilep Creative
 - [Password Generator](https://play.google.com/store/apps/details?id=com.word.khanhvn&hl=en_SG) - από 811039
 - [Password Generator](https://play.google.com/store/apps/details?id=com.blackstar.apps.passwordgenerator) - από blackstar
+
 #
 ● Διαχειριστές Κωδικών ●
 #
@@ -86,7 +87,6 @@
 - [Passbolt - password manager](https://play.google.com/store/apps/details?id=com.passbolt.mobile.android) - από Passbolt SA
 - [AuthPass – Password Manager](https://play.google.com/store/apps/details?id=design.codeux.authpass) - από CodeUX.design
 - [KeyPass](https://play.google.com/store/apps/details?id=com.yogeshpaliyal.keypass) - από Yogesh Paliyal
-- [NS Wallet: Offline Password Ma](https://play.google.com/store/apps/details?id=com.nyxbull.nswallet) - από BykovSoft
 - [Buttercup](https://play.google.com/store/apps/details?id=com.buttercup) - από MadDev Oy
 - [Passky Password Manager](https://play.google.com/store/apps/details?id=com.rabbitcompany.passky) - από Rabbit Company LLC
 - [Cloud Personnel - Cozy](https://play.google.com/store/apps/details?id=io.cozy.flagship.mobile) - από Cozy Cloud
@@ -103,11 +103,46 @@
 - [KeePassDX](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free) - από Kunzisoft
 - [X:/Passwd - Local, Open-Source](https://play.google.com/store/apps/details?id=com.xtrendence.x_passwd) - από Xtrendence
 - [Liso - Διαχειριστής Κωδικών](https://play.google.com/store/apps/details?id=com.liso.app) - από Stackwares
+- [NS Wallet: Offline Password Ma](https://play.google.com/store/apps/details?id=com.nyxbull.nswallet) - από BykovSoft
 
-#### Δίχως πληρωμή
-- [DrivePassword Password Manager](https://play.google.com/store/apps/details?id=com.drivepassword.android) - από Promotino Ltd
+#### Δωρεάν δίχως διαφημίσεις
 - [Complete ID: Password Manager](https://play.google.com/store/apps/details?id=com.completeid.passwordmanager) - από CSID Corporation
 - [JumpCloud Password Manager](https://play.google.com/store/apps/details?id=com.jumpcloud.pwm.android) - από JumpCloud
+- [Xproguard Password Manager](https://play.google.com/store/apps/details?id=com.xproguard.passwd&hl=en) - από Total Xproguard Private Limited
+- [Norton Password Manager](https://play.google.com/store/apps/details?id=com.symantec.mobile.idsafe) - από NortonMobile
+- [Password manager](https://play.google.com/store/apps/details?id=com.password.manager.app) - από Gambito Lab
+- [Password Manager](https://play.google.com/store/apps/details?id=pro.umakhan.passwordmanager) - από Umakhan Magomedov
+- [Password Manager](https://play.google.com/store/apps/details?id=com.ishangamedev.passwordmanager) - από IshanGameDev
+- [Offline Password Manager](https://play.google.com/store/apps/details?id=com.jackappsdev.password_manager) - από Jack's - Apps
+- [ME Password Manager Pro](https://play.google.com/store/apps/details?id=com.manageengine.pmp) - από ManageEngine
+- [Password Manager](https://play.google.com/store/apps/details?id=com.techroid.passgenerator) - από TechRoid
+- [JumpCloud Password Manager](https://play.google.com/store/apps/details?id=com.jumpcloud.pwm.android&hl=el) - από JumpCloud
+- [Offline password manager: Zero](https://play.google.com/store/apps/details?id=tech.bluespace.android.id_guard) - από Blue Space Information Technology Co., Ltd.
+
+#### Δωρεάν με διαφημίσεις
+- [G Password Manager](https://play.google.com/store/apps/details?id=com.passwordmanagerg.app&hl=en_US) - από Spectrum App
+- [LogMeOnce Password Manager](https://play.google.com/store/apps/details?id=log.me.once) - από LogMeOnce Password Manager
+- [SpecialOne Studio](https://play.google.com/store/apps/details?id=com.spinkeysoft.riddler&hl=en) - από SpecialOne Studio
+- [Smart Password Manager](https://play.google.com/store/apps/details?id=com.smartwho.smartpassword) - από SmartWho
+- [Password Manager: Safe Account](https://play.google.com/store/apps/details?id=com.wriink.passwordmanager) - από Wriink
+- [Password Manager](https://play.google.com/store/apps/details?id=com.protect.secure.password.manager) - από Infinity Techsolution
+- [Password manager](https://play.google.com/store/apps/details?id=com.mb.passwordmanager) - από M & B
+- [Password Manager](https://play.google.com/store/apps/details?id=com.largou.passwordmanger) - από bella-vita
+- [Password Manager](https://play.google.com/store/apps/details?id=com.hauvv.passwordmaker&hl=el) - από Hau Vu
+- [Password Manager](https://play.google.com/store/apps/details?id=com.seinsmart.key_store) - από 세인스마트
+- [Password manager](https://play.google.com/store/apps/details?id=tedi.kakatsi.secretpassmanager) - από Zetaplus
+- [My Password Manager App](https://play.google.com/store/apps/details?id=com.password.manager.passwordmanager.app) - από Simple Design Developers
+- [Password Manager:Safe & Secure](https://play.google.com/store/apps/details?id=com.password.mymanger.safe.secure) - από Tools For Easy Life 
+- [Secure Password Manager App:](https://play.google.com/store/apps/details?id=com.malakstudio.allpassword.manager) - από MalakStudio
+- [Password Manager: Keepass](https://play.google.com/store/apps/details?id=com.keepass.passwordmanager.password.cloud&hl=en) - από PakZon IT Apps
+- [Password Manager & Keeper](https://play.google.com/store/apps/details?id=com.passwordmanager.manager.passwords) - από Akihabara Apps Solutions
+- [My Password Manager: Keep Pass](https://play.google.com/store/apps/details?id=com.continuum.passwordmanager) - από Continuum App
+- [Password Manager](https://play.google.com/store/apps/details?id=it.smartphoneapps.acpasswordlockfree&hl=en_NZ) - από Fabio Crovatto
+- [Password Manager Wallet](https://play.google.com/store/apps/details?id=com.rellowteam.passwordwallet) - από RellowTeam
+- [Passaver: Password Manager](https://play.google.com/store/apps/details?id=com.tientham.password_saver&hl=el) - από Tô Minh Tiến
+- [Password Manager Secure Vault](https://play.google.com/store/apps/details?id=com.bluefish.passbox) - από Rubi
+- [1Cloud - Password Manager](https://play.google.com/store/apps/details?id=com.identiq.passwordmanager&hl=el) - από AppCraft Solutions LLC
+- [Password Manager Offline](https://play.google.com/store/apps/details?id=com.whitebeardsolutions.passwordmanager&hl=en_SG) - από Iman_Sharifi
 
 #### Εν μέρει δωρεάν
 - [KPass: password manager](https://play.google.com/store/apps/details?id=com.korovan.kpass) - από Vladimir Skorokhodov
@@ -126,12 +161,33 @@
 - [Sticky Password Manager](https://play.google.com/store/apps/details?id=com.stickypassword.android) - από Lamantine Software a.s.
 - [Password Safe and Manager](https://play.google.com/store/apps/details?id=com.reneph.passwordsafe) - από Robert Ehrhardt
 - [Password Manager App](https://play.google.com/store/apps/details?id=secure.password.generator.unique.password) - από Epic Apps Studio
+- [LastPass Password Manager](https://play.google.com/store/apps/details?id=com.lastpass.lpandroid) - από LastPass US LP
+- [Password Manager SafeInCloud 2](https://play.google.com/store/apps/details?id=com.safeincloud.free) - από SafeInCloud S.A.S.
+- [RoboForm Password Manager](https://play.google.com/store/apps/details?id=com.siber.roboform) - από Siber Systems Inc
+- [Offline Password Manager](https://play.google.com/store/apps/details?id=app.desmundyeng.passwordmanager) - από Jolly Good Life
+- [Password Manager](https://play.google.com/store/apps/details?id=bon.password.manager) - από Bonjour Tech
+- [PassVault: Password Manager & Secure Card Wallet](https://play.google.com/store/apps/details?id=com.hightech.passwordmanager&hl=el) - από Hightech Solution
+- [Password Manager App](https://play.google.com/store/apps/details?id=password.generator.secure.password.generator) - από Alpha Apps Studio
+- [Password Manager](https://play.google.com/store/apps/details?id=com.companova.passwordmanager) - από CompaNova LLC
+- [Password Manager](https://play.google.com/store/apps/details?id=strong.passwordgenerator.secure.password.manager) - από Nethan Apps
+- [One Key: password manager](https://play.google.com/store/apps/details?id=com.gaurav.onekey) - από GByte
+- [Password Manager - Passwarden](https://play.google.com/store/apps/details?id=com.keepsolid.passwarden) - από KeepSolid Inc
+- [My Password Manager](https://play.google.com/store/apps/details?id=com.fivestars.mypassword&hl=en_SG) - από Fivestars Studio
+- [NordPass® Password Manager](https://play.google.com/store/apps/details/NordPass%C2%AE+Password+Manager?id=com.nordpass.android.app.password.manager&hl=en_ZA) - από Nord Security
+- [Password Manager](https://play.google.com/store/apps/details?id=com.szis.jelszok) - από Szűcs Zoltán
+- [DrivePassword Password Manager](https://play.google.com/store/apps/details?id=com.drivepassword.android) - από Promotino Ltd
+- [Password Boss Password Manager](https://play.google.com/store/apps/details?id=com.passwordboss.android) - από Password Boss, LLC
+- [1Password: Password Manager](https://play.google.com/store/apps/details?id=com.onepassword.android) - από AgileBits
+- [Simple Password Manager](https://play.google.com/store/apps/details?id=in.shahidthaika.android.simplepassmgr) - από Shahid Thaika
+- [PassKeep - Password Manager](https://play.google.com/store/apps/details?id=com.redeyes.sspasswords) - από BearMinds
+- [aWallet Password Manager](https://play.google.com/store/apps/details?id=org.awallet.free) - από Synpet
 #
 ● Γονικός έλεγχος ●
 #
 #### Δωρεάν
-- [Σύνδεσμος οικογένειας Google](https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink) - από Google LLC
+- [Google Family Link](https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink) - από Google LLC
 - [Bitdefender Parental Control](https://play.google.com/store/apps/details?id=com.bitdefender.parentaladvisor) - από Bitdefender
+- [Norton Family Parental Control](https://play.google.com/store/apps/details?id=com.symantec.familysafety) - από NortonMobile
 
 #### Εν μέρει δωρεάν
 - [Γονικός έλεγχος Kroha](https://play.google.com/store/apps/details?id=ua.com.tim_berners.parental_control) - από Parental Control Kroha
@@ -143,3 +199,9 @@
 - [Kaspersky SafeKids with GPS](https://play.google.com/store/apps/details?id=com.kaspersky.safekids) - από Kaspersky ME
 - [SafeFamily – Γονικός έλεγχος](https://play.google.com/store/apps/details?id=com.mcafee.security.safefamily) - από McAfee LLC
 - [Microsoft Family Safety](https://play.google.com/store/apps/details?id=com.microsoft.familysafety) - από Microsoft Corporation
+- [AirDroid Parental Control](https://play.google.com/store/apps/details?id=com.sand.airdroidkidp) - από SAND STUDIO
+- [Kids Place Parental Control](https://play.google.com/store/apps/details/Kids_Place_Parental_Control?id=com.kiddoware.kidsplace&hl=el) - από Kiddoware - Parental Control App Provider
+- [FlashGet Kids:parental control](https://play.google.com/store/apps/details?id=com.flashget.parentalcontrol) - από HONGKONG FLASHGET NETWORK TECHNOLOGY
+- [Qustodio Parental Control App](https://play.google.com/store/apps/details?id=com.qustodio.family.parental.control.app.screentime&hl=el) - από Qustodio LLC
+- [Parental Control App- FamiSafe](https://play.google.com/store/apps/details?id=com.wondershare.famisafe) - από Shenzhen Wondershare Software Co., Ltd.
+- [Safes - Parental Control](https://play.google.com/store/apps/details?id=de.sternx.safes) - από SternX Technology GmbH
