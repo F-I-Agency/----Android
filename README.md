@@ -68,7 +68,6 @@
 - [Password Generator - UltraPass](https://play.google.com/store/apps/details?id=com.softwareschiek.ultrapass) - από Tobias Schiek
 - [#1 Password Generator](https://play.google.com/store/apps/details?id=com.companova.passwordgenerator) - από CompaNova LLC
 - [Random Password Generator free](https://play.google.com/store/apps/details?id=com.shpavda.random_password_generator) - από shpavda LLC
-- [Password Generator](https://play.google.com/store/apps/details?id=secure.password.generator.unique.password) - από Epic Apps Studio
 - [My Password Generator Lock App](https://play.google.com/store/apps/details?id=com.strongpass.randomkey.safepassgenerator) - από PixelPioneer Solutions
 - [Strong Password Generator](https://play.google.com/store/apps/details?id=com.mobuyg.pass) - από Applist Soft
 - [Password Generator](https://play.google.com/store/apps/details?id=com.ablazaza.passwordgenerator&hl=en) - από Tona
@@ -76,7 +75,7 @@
 - [Password Generator](https://play.google.com/store/apps/details?id=com.word.khanhvn&hl=en_SG) - από 811039
 - [Password Generator](https://play.google.com/store/apps/details?id=com.blackstar.apps.passwordgenerator) - από blackstar
 #
-● Διαχειριστές Κωδικών (Πορτοφόλι) ●
+● Διαχειριστές Κωδικών ●
 #
 #### Ανοικτού κώδικα
 - [Keepass2Android Offline](https://play.google.com/store/apps/details?id=keepass2android.keepass2android_nonet) - από Philipp Crocoll (Croco Apps)
@@ -126,6 +125,7 @@
 - [Trend Micro Password Manager](https://play.google.com/store/apps/details?id=com.trendmicro.directpass.phone) - από Trend Micro
 - [Sticky Password Manager](https://play.google.com/store/apps/details?id=com.stickypassword.android) - από Lamantine Software a.s.
 - [Password Safe and Manager](https://play.google.com/store/apps/details?id=com.reneph.passwordsafe) - από Robert Ehrhardt
+- [Password Manager App](https://play.google.com/store/apps/details?id=secure.password.generator.unique.password) - από Epic Apps Studio
 #
 ● Γονικός έλεγχος ●
 #
