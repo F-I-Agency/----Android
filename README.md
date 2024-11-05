@@ -34,7 +34,6 @@
 #### Δωρεάν με διαφημίσεις
 - [PasGen - Strong Password Maker](https://play.google.com/store/apps/details?id=com.glaukeslabs.pasgen) - από Glaukes Labs
 - [PassGen - Password Generator](https://play.google.com/store/apps/details?id=ru.passgen.net) - από Smied
-- [PasGenPasGen - Strong Password Generator](https://play.google.com/store/apps/details?id=in.abhisheknair.passgen) - από A.N.N.J. Apps
 - [Advanced Password Generator](https://play.google.com/store/apps/details?id=de.aregel.advancedpasswordgenerator) - από Andreas Regel
 - [Generate strong passwords](https://play.google.com/store/apps/details?id=com.isaac.passwordgenerator) - από Isaac de los Reyes Díaz
 - [Password Generator](https://play.google.com/store/apps/details?id=pl.fancycode.passwordgenerator) - από FancyCode
