@@ -7,9 +7,6 @@
 - [Password Generator](https://play.google.com/store/apps/details?id=in.ibytes.passwordgenerator) - από ibytes
 - [Password Generator](https://play.google.com/store/apps/details?id=com.cem256.passwordgenerator) - από Cem256
 - [Password Generator App & Gener](https://play.google.com/store/apps/details?id=password.generator.secure.password.generator) - από Alpha Apps Studio
-- [Password Generator](https://play.google.com/store/apps/details?id=com.mikelcalvo.passwordgenerator) - από Mikel Calvo S.L.
-- [Noritsu Password Generator](https://play.google.com/store/apps/details?id=com.rajdeepthakare.noritsu_password_generator) - από Rajdeep Thakare
-- [Strong Password Generator](https://play.google.com/store/apps/details?id=strong.password.random.password.generator) - από Global Technoworld Developers
 - [Pazzword - Password Evaluator](https://play.google.com/store/apps/details?id=com.cyb3rko.pazzword) - από Cyb3rKo
 - [Nextcloud Passwords](https://play.google.com/store/apps/details?id=de.jbservices.nc_passwords_app) - από Jonas Blatt
 
